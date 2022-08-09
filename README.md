@@ -20,3 +20,34 @@ The chat app sets up the chat application web server which allows for real time 
   <li> Client-side templating engine .</li>
   <li> Working with time in JavaScript. </li>
 </ol>
+<h2>Project setup and installation</h2>
+<p>npm initialisation</p>
+
+```Bash
+npm init
+npm install
+```
+<p>Getting started with Socket.io</p>
+
+```Bash
+npm i socket.io
+```
+<p>Set up the npm to screen messages for profane
+language</p>
+
+```Bash
+npm i bad-words
+```
+<p>Set up the server to screen messages for profane
+language</p>
+
+```Bash
+npm i bad-words
+```
+<p>CDN for rendering messages</p>
+
+```Bash
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mustache.js/3.0.1/mustache.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.2/moment.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/qs/6.6.0/qs.min.js"></script>
+```
