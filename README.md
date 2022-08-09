@@ -38,12 +38,7 @@ language</p>
 ```Bash
 npm i bad-words
 ```
-<p>Set up the server to screen messages for profane
-language</p>
 
-```Bash
-npm i bad-words
-```
 <p>CDN for rendering messages</p>
 
 ```Bash
