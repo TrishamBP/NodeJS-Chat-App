@@ -11,3 +11,12 @@ The chat app sets up the chat application web server which allows for real time 
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 <img src="https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku"/>
 </p>
+<h2> Concepts Covered </h2>
+<ol>
+  <li> Web Socket Protocol.</li>
+  <li> npm socket.io.</li>
+  <li> socket.io Events.</li>
+  <li> Geolocation Web API.</li>
+  <li> Client-side templating engine .</li>
+  <li> Working with time in JavaScript. </li>
+</ol>
