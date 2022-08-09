@@ -1,5 +1,6 @@
 # Chat-App
 The chat app sets up the chat application web server which allows for real time communication between clients and server to send chat messages using web sockets.The WebSocket protocol supports real-time bi-direction communication, which makes it a great fit for the chat application.
+<p> Checkout the live APP:- https://trisham-chat-app.herokuapp.com/
 <h2> Technology Used </h2>
 <p align="center">
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
@@ -8,5 +9,5 @@ The chat app sets up the chat application web server which allows for real time 
 <img src="https://img.shields.io/badge/-Node JS-black?style=flat-square&logo=node"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
-<img src="https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman"/>
+<img src="https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku"/>
 </p>
